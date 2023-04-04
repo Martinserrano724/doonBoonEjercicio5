@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.contenedorCronometro{
+    background-color: rgb(99, 197, 233);
+    color: rgba(0, 0, 0, 0.637) ;
+    width: 400px;
+    height: 200px;
+     
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(149, 161, 179);
+    height: 100vh;
+}
+.tiempo{
+    font-size: 30px;
+    text-align: center;
+    
+}
