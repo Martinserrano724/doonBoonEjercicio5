@@ -10,7 +10,7 @@ let centesimasReloj = document.getElementById("centesimas");
 
 
 function iniciar() {
-    control = setInterval(cronometro, 0.0000001);
+    control = setInterval(cronometro, 10);
   }
 
 
